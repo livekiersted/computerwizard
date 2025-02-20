@@ -1,15 +1,15 @@
-baseURL = 'https://antiracism.livekiersted.com/'
+baseURL = 'https://computerwizard.livekiersted.com/'
 languageCode = 'en-us'
-title = 'Live Kiersted Antiracism'
+title = 'Live Kiersted Computer Wizardry'
 theme = 'hugo-scroll'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 ignoreFiles = [ ".*/README.md" ]
 
 [params]
-    favicon = "images/anti-racism favicon.png"
+    favicon = "images/computer favicon.png"
     hidedesignbyline = true
     title = "Live Kiersted"
-    description = "Anti-Racism"
+    description = "Tech Consulting"
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
