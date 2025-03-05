@@ -2,6 +2,7 @@ baseURL = 'https://computerwizard.livekiersted.com/'
 languageCode = 'en-us'
 title = 'Live Kiersted Computer Wizardry'
 theme = 'hugo-scroll'
+layoutDir = 'hugo-base/layouts'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 ignoreFiles = [ ".*/README.md" ]
